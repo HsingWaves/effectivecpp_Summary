@@ -1,9 +1,9 @@
-## C++ consists mainly of 4 important parts
+## C++ Compositions
+C++ consists mainly of 4 important parts
+### C language
 
-# C language
+### STL
 
-# STL
+### Template C++
 
-# Template C++
-
-# Object-oriented C++
+### Object-oriented C++
