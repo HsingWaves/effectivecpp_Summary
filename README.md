@@ -13,8 +13,8 @@ There are 55 tips how to write the "correct" c++ code in this book.
   * [Declare destructors virtual in polymorphic base classes](SecondChapter/Declare_destructors_virtual.md)
   * [Preventing exceptions from leaving deconstructors](SecondChapter/Preventing_exceptions.md)
   * [never call virtual functions during construction and destruction](SecondChapter/Dont_call_virtual_InConstr.md)
-  * [Have assignment operators return a reference to *this]()
-  * [Handle assignment to self in operator=]()
+  * [Have assignment operators return a reference to *this](SecondChapter/assignment_operator.md)
+  * [Handle assignment to self in operator=](SecondChapter/self_assignment.md)
   * [Copy all parts of an object]()
   
   
