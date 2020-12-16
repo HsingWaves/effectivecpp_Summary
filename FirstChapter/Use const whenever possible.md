@@ -5,7 +5,7 @@ if const on the **left side of the * ** the **variable** is const
    void f2(Widget const * pw);
 are the same. f1 and f2 get a pointer,which **points to a constant**
 ```
-if const on the **right side of the * ** the **pointer** is const
+if const on the **right side of the * the pointer** is const
 
 ### Attention 1: const member function
 1. Make class interface easy to be understood, which function can change content of object
