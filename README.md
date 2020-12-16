@@ -1,4 +1,4 @@
-### This is the personel summary of <<effective c++>>
+### This is the personel summary of effective c++
 There are 55 tips how to write the "correct" c++ code in this book.
 
 # Catalog 
