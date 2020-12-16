@@ -1,4 +1,3 @@
-### 
 ```
 class Widget{
 public:
@@ -32,9 +31,9 @@ public:
 
 ```
 class DBConn{
-**public**:
+public:
   ...
-  **void close()**{
+  void close(){
   db.close();
   closed = true;
   }
@@ -49,7 +48,7 @@ class DBConn{
       ...
       }
   }
-  private:
+private:
   DBConnection db;
   bool closed;
 };
