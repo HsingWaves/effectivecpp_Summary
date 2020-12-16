@@ -1,6 +1,6 @@
-**Compiler can sliently create default constructor, copy constructor, copy assignment = operator,and deconstructor
+## Compiler can sliently create default constructor, copy constructor, copy assignment = operator,and deconstructor
 
-***Attention: reference cannot change to another object
+### Attention: reference cannot change to another object
 ```
   std::string newDog("Psoh");
   std::string oldDog("Stach");
