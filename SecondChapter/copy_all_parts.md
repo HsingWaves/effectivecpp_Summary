@@ -35,8 +35,9 @@ PriorityCustomer& PriorityCustomer::operator=(const PriorityCustomer& rhs)
   
   //here copy construtor doesn't send the parameter to base class;
 }
-**compiler error**
+
 ```
+**compiler error**
 Solution:
 
 ```
