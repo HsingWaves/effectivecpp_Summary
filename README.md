@@ -15,7 +15,7 @@ There are 55 tips how to write the "correct" c++ code in this book.
   * [never call virtual functions during construction and destruction](SecondChapter/Dont_call_virtual_InConstr.md)
   * [Have assignment operators return a reference to *this](SecondChapter/assignment_operator.md)
   * [Handle assignment to self in operator=](SecondChapter/self_assignment.md)
-  * [Copy all parts of an object]()
+  * [Copy all parts of an object](SecondChapter/copy_all_parts.md)
   
   
   
