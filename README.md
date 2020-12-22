@@ -16,6 +16,12 @@ There are 55 tips how to write the "correct" c++ code in this book.
   * [Have assignment operators return a reference to *this](SecondChapter/assignment_operator.md)
   * [Handle assignment to self in operator=](SecondChapter/self_assignment.md)
   * [Copy all parts of an object](SecondChapter/copy_all_parts.md)
+* The third five chapter
+  * [objects manage resources](ThirdChapter/Objmanage_resources.md)
+  * [Think carefully about copying in resources managing classes](ThirdChapter/Think_carefull_copying.md)
+  * [Provide access to raw resources](ThirdChapter/Provide_access_toraw.md)
+  * [Use of the same form in corresponding new and delete](ThirdChapter/correspoding_uses_new_delete.md)
+  * [smart pointers in standlone statements](ThirdChapter/store_newobj_smartpointer.md)
   
   
   
