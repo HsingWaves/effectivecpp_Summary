@@ -2,12 +2,12 @@
 There are 55 tips how to write the "correct" c++ code in this book.
 
 # Catalog 
-* The fisrt four chapter 
+* The fisrt 4 chapters: Accustoming yourself to C++
   * [view c++ as a federation of languages](FirstChapter/View%20C++%20as%20federation%20language.md)
   * [Prefer const, enums, and inlines to #define](FirstChapter/Prefer%20const%20enum%20and%20inlines%20to%20%23define.md)
   * [Use const whenever possible](FirstChapter/Use%20const%20whenever%20possible.md)
   * [Make sure that objects are initilaed before they are used](FirstChapter/Make%20sure%20that%20objects%20are%20initialized%20before%20they%20are%20used.md)
-* The seconde eight chapters Constructors, deconstructor, and Assignment Operators
+* The seconde eight chapters: Constructors, deconstructor, and Assignment Operators
   * [Know what functions C++ sliently writes and calls](SecondChapter/WhatfunctionslientlyCall.md)
   * [Explicitly disallow the use of compiler-generated functions you do not want](SecondChapter/Explicitly_disallow.md)
   * [Declare destructors virtual in polymorphic base classes](SecondChapter/Declare_destructors_virtual.md)
@@ -16,13 +16,30 @@ There are 55 tips how to write the "correct" c++ code in this book.
   * [Have assignment operators return a reference to *this](SecondChapter/assignment_operator.md)
   * [Handle assignment to self in operator=](SecondChapter/self_assignment.md)
   * [Copy all parts of an object](SecondChapter/copy_all_parts.md)
-* The third five chapters
+* The third 5 chapters: Memory management
   * [objects manage resources](ThirdChapter/Objmanage_resources.md)
   * [Think carefully about copying in resources managing classes](ThirdChapter/Think_carefull_copying.md)
   * [Provide access to raw resources](ThirdChapter/Provide_access_toraw.md)
   * [Use of the same form in corresponding new and delete](ThirdChapter/correspoding_uses_new_delete.md)
   * [smart pointers in standlone statements](ThirdChapter/store_newobj_smartpointer.md)
 * The fourth 8 chapters: Design and declarations
+  * [Make interfaces easy to be used correctly](FourthChapter/make_interface_easy_tobe_used.md)
+  * [Treat class design as type design](FourthChapter/Treat_class_design_as_type.md)
+  * [Prefer pas-by-reference than pass-by-value](FourthChapter/pass_by_re_than_by_value.md)
+  * [Don't try to return reference when an object must be returned](FourthChapter/dont_try_return_reference.md)
+  * [Declare data members private](FourthChapter/member_data_as_private.md)
+  * [Prefer non-member non-friend functions to member functions](FourthChapter/pre_nonmember_nonfriend_replacemember.md)
+  * [Declare non-member functions when type conversion should apply to all parameters](FourthChapter/Declare_nonmember_functions_conversion_needed.md)
+  * [Consider support for a non-throwing swap](FourthChapter/swap_function_no_throw.md)
+* The fifth 6 chaptes: Implementation
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+* The sixth 9 chapters: Inheritance and Object-Oriented Design
+  * []()
   * []()
   * []()
   * []()
