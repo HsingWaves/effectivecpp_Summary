@@ -58,13 +58,13 @@ There are 55 terms how to write the "correct" c++ code in this book.
   * [Use traits classes for information about types](SeventhChapter/traits_classes_for_information_about_types.md)
   * [Be aware of template metaprogramming](SeventhChapter/be_aware_template_metaprogramming.md)
 * The eighth 49-52 terms: Customizing new and delete
-  * [Understand the behavior of the new-handler](EighthChapter\new_handler_behavior.md)
-  * [Understand when it makes sense to replace new and delete](EighthChapter\when_to_replace_new_delete.md)
-  * [Adhere to convention when writing new and delete](EighthChapter\Adhere_to_convention_writing_new_delete.md)
-  * [Write placement delete if you write placement new ](EighthChapter\write_placement_delete_if_writing_new.md)
+  * [Understand the behavior of the new-handler](EighthChapter/new_handler_behavior.md)
+  * [Understand when it makes sense to replace new and delete](EighthChapter/when_to_replace_new_delete.md)
+  * [Adhere to convention when writing new and delete](EighthChapter/Adhere_to_convention_writing_new_delete.md)
+  * [Write placement delete if you write placement new ](EighthChapter/write_placement_delete_if_writing_new.md)
 * The last 53-55 terms: Miscellany
-  * [Pay attention to compiler warnings](FinalChaper\pay_attention_to_warning.md)
-  * [Familiarize yourself with the standard library, including TRI](FinalChaper\Familiarize_yourself_with_standarad_library.md)
-  * [Familiarize yourself with Booost](FinalChaper\familiarize_with_Boost.md)
+  * [Pay attention to compiler warnings](FinalChaper/pay_attention_to_warning.md)
+  * [Familiarize yourself with the standard library, including TRI](FinalChaper/Familiarize_yourself_with_standarad_library.md)
+  * [Familiarize yourself with Booost](FinalChaper/familiarize_with_Boost.md)
   
   
